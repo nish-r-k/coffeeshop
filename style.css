@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
+}
+body{
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
